@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-xbox;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: cadetblue;
+
+}
+
+div > p {
+font-size: 30px;
+color: darkred;
+text-align: center;
+text-transform: uppercase;
+}
